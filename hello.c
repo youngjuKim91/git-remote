@@ -1,5 +1,7 @@
 //For command line git tutorial
 //Local repository modification
+//git tutorial test
+>>>>>>> origin/master
 
 #include<stdio.h>
 
